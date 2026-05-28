@@ -1,0 +1,6 @@
+{
+  "name": "Creatorverse",
+  "description": "An immersive digital universe for speculative fiction writers, digital artists, and visionary creators to showcase, read, and collaborate on imaginative stories and worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
